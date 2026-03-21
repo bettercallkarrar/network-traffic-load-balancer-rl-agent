@@ -14,7 +14,7 @@ The system dynamically distributes network traffic across servers to minimize la
 ### 🔹 RL-Based Architecture
 
 <p align="center">
-<img src="images/architecture_rl.png" width="28%">
+<img src="images/architecture_rl.png" width="30%">
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@ The system dynamically distributes network traffic across servers to minimize la
 ### 🔍 Traditional Load Balancing
 
 <p align="center">
-  <img src="images/architecture1.png" width="45%">
-  <img src="images/architecture2.png" width="45%">
+  <img src="images/architecture1.png" width="30%">
+  <img src="images/architecture2.png" width="30%">
 </p>
 
 <p align="center">
