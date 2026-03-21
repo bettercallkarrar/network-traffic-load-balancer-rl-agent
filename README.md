@@ -20,7 +20,7 @@ The system dynamically distributes network traffic across servers to minimize la
 </p>
 
 <p align="center">
-<b>Figure:</b> Comparison between RL-based load balancing and traditional load balancing architectures and techniques.
+<b>Figure:</b> Comparison between RL-based load balancing and traditional load balancing techniques.
 </p>
 
 ---
