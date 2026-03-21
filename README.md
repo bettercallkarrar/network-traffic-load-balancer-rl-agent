@@ -25,19 +25,6 @@ The system dynamically distributes network traffic across servers to minimize la
 
 ---
 
-### 🔍 Traditional Load Balancing
-
-<p align="center">
-  <img src="images/architecture1.png" width="30%">
-  <img src="images/architecture2.png" width="30%">
-</p>
-
-<p align="center">
-<b>Figure 2:</b> Traditional load balancing architecture and common algorithms such as Round Robin, Least Connections, and Hash-based routing.
-</p>
-
----
-
 ### ⚙️ How It Works
 
 - Incoming network traffic enters the environment
