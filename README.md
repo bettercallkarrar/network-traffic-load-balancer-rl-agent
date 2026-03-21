@@ -131,5 +131,3 @@ network-traffic-load-balancer-rl/
 Karrar Haider 
 
 ---
-
-## ⭐ Support
