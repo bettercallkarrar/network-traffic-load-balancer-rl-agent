@@ -1,55 +1,34 @@
-# 🚀 etwork Traffic Load Balancer using RL Agent
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![RL](https://img.shields.io/badge/Technique-DQN-orange)
+# 🚀 Network Traffic Load Balancer using RL Agent
 
 ---
+
+## 📌 Overview
+
+This project implements a **Reinforcement Learning-based Load Balancer** using a Deep Q-Network (DQN) agent.  
+The system dynamically distributes network traffic across servers to minimize latency and improve performance.
 
 ---
 
 ## 🧩 System Architecture
 
 <p align="center">
-  <img src="images/architecture.png" width="75%">
-</p>
-
-<p align="center">
-<b>Figure 1:</b> Reinforcement Learning (DQN) agent interacting with the network environment to optimize traffic routing.
-</p>
-
----
-
-### 🔍 Comparison with Traditional Load Balancing
-
-<p git pull origin main --rebasealign="center">
   <img src="images/architecture1.png" width="45%">
   <img src="images/architecture2.png" width="45%">
 </p>
 
 <p align="center">
-<b>Figure 2:</b> Traditional load balancing architecture and common distribution algorithms (Round Robin, Least Connections, Hashing).
+<b>Figure:</b> Traditional load balancing architecture and common algorithms such as Round Robin, Least Connections, and Hash-based routing.
 </p>
 
 ---
 
-### 🧠 How It Works
+### ⚙️ How It Works
 
 - Incoming **network traffic** enters the environment  
 - The environment computes the current **state** (load, latency)  
 - The **DQN agent** selects the optimal server  
 - The system returns a **reward** based on latency performance  
 - The agent continuously improves decisions via **feedback loop**
-
----
-
----
-
-## 📌 Overview
-
-This project implements a **Reinforcement Learning-based Load Balancer** that dynamically distributes network traffic across multiple servers using a **Deep Q-Network (DQN)** agent.
-
-The goal is to minimize latency and improve system efficiency by learning optimal routing decisions over time.
 
 ---
 
