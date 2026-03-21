@@ -11,14 +11,16 @@ The system dynamically distributes network traffic across servers to minimize la
 
 ## 🧩 System Architecture
 
-### 🔹 RL-Based Architecture
+### 🔹 Load Balancing Architectures
 
 <p align="center">
-<img src="images/architecture_rl.png" width="30%">
+  <img src="images/architecture_rl.png" width="30%">
+  <img src="images/architecture1.png" width="30%">
+  <img src="images/architecture2.png" width="30%">
 </p>
 
 <p align="center">
-<b>Figure 1:</b> RL-based architecture showing how the agent interacts with the environment and selects the best server dynamically.
+<b>Figure:</b> Comparison between RL-based load balancing and traditional load balancing architectures and techniques.
 </p>
 
 ---
