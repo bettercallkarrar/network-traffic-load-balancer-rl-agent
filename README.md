@@ -1,4 +1,4 @@
-# 🚀 Network Traffic Load Balancer using RL Agent
+# 🚀 etwork Traffic Load Balancer using RL Agent
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
