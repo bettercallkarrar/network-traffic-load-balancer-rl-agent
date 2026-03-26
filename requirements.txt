@@ -1,5 +1,4 @@
 matplotlib
 numpy
-tensorflow
 streamlit
-torch
+pandas
